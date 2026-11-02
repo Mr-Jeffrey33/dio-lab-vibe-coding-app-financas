@@ -55,7 +55,7 @@ Usar tom moderno, acessível e em português.
 
 | Tela do Dashboard | Chat com o Byte & Alertas |
 | :---: | :---: |
-| ![Dashboard](Byte_Dashboard.png) | ![Chat & Alertas](.Byte_chat.png) |
+| ![Dashboard](Byte_Dashboard.png) | ![Chat & Alertas](Byte_chat.png) |
 
 ---
 
